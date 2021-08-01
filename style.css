@@ -1,0 +1,14 @@
+.container {
+  padding-top: 100px;
+  background-color: #e5f1ab;
+}
+
+.gallery {
+  background-color: #99c4da;
+  padding: 4px;
+}
+
+.card {
+  padding: 50px;
+  border: 100px;
+}
